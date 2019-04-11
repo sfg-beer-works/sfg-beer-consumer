@@ -1,3 +1,3 @@
-SFG Beer Consumer
+# SFG Beer Consumer
 
 Service which orders beers from pubs.
